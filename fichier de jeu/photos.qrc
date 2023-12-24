@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>back2.jpg</file>
+        <file>back4.png</file>
+        <file>back23.png</file>
+        <file>back24.png</file>
+        <file>equal.png</file>
+    </qresource>
+</RCC>

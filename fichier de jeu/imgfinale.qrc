@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>project 1 sound on.png</file>
+        <file>project 2.png</file>
+        <file>project 3.png</file>
+    </qresource>
+</RCC>

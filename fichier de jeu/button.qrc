@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>START BUTTON.png</file>
+        <file>easy button.png</file>
+        <file>hard button.png</file>
+    </qresource>
+</RCC>
